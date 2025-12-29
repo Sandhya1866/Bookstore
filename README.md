@@ -2,7 +2,7 @@
 
 A responsive web application that allows users to browse, search, and purchase books online. Built with React.js, Node.js, Express.js, and MongoDB.
 
-## 🚀 Features
+## Features
 
 ### Customer Features
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
@@ -18,7 +18,7 @@ A responsive web application that allows users to browse, search, and purchase b
 - **Order Management**: View all customer orders and sales data
 - **Inventory Control**: Track book stock levels
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React.js** - UI library with hooks for state management
@@ -35,13 +35,13 @@ A responsive web application that allows users to browse, search, and purchase b
 - **JWT** - JSON Web Tokens for authentication
 - **bcryptjs** - Password hashing
 
-## 📋 Prerequisites
+##Prerequisites
 
 - Node.js (v14 or higher)
 - MongoDB (local installation or MongoDB Atlas)
 - npm or yarn package manager
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -71,7 +71,7 @@ npm install
 ### 4. Database Setup
 Make sure MongoDB is running on your system. The application will automatically create the database and seed it with sample data.
 
-## 🚀 Running the Application
+## Running the Application
 
 ### Start the Backend Server
 ```bash
@@ -87,7 +87,7 @@ npm start
 ```
 The frontend will run on `http://localhost:3000`
 
-## 👤 Demo Accounts
+## Demo Accounts
 
 ### Admin Account
 - **Email**: admin@bookstore.com
@@ -96,7 +96,7 @@ The frontend will run on `http://localhost:3000`
 ### Test Customer Account
 You can register a new account or use the admin account to test all features.
 
-## 📱 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - Register new user
@@ -116,7 +116,7 @@ You can register a new account or use the admin account to test all features.
 - `DELETE /api/admin/books/:id` - Delete book
 - `GET /api/admin/orders` - Get all orders
 
-## 🎯 Key Features Implementation
+## Key Features Implementation
 
 ### 1. Responsive Design
 - Bootstrap 5 for mobile-first responsive design
@@ -139,7 +139,7 @@ You can register a new account or use the admin account to test all features.
 - Book schema with inventory management
 - Order schema with item details and shipping info
 
-## 🔒 Security Features
+## Security Features
 
 - JWT token authentication
 - Password hashing
@@ -147,7 +147,7 @@ You can register a new account or use the admin account to test all features.
 - Input validation
 - CORS configuration
 
-## 📊 Project Structure
+## Project Structure
 
 ```
 online-bookstore/
@@ -166,7 +166,7 @@ online-bookstore/
 └── README.md
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Backend Deployment
 1. Set up MongoDB Atlas or use a cloud MongoDB service
@@ -177,7 +177,7 @@ online-bookstore/
 1. Build the React app: `npm run build`
 2. Deploy to platforms like Netlify, Vercel, or AWS S3
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -189,7 +189,7 @@ online-bookstore/
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Developer
+## Developer
 
 **Sandhyarani Rajulapati**
 - Email: sandhyarajulapati1866@gmail.com
@@ -198,4 +198,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ using React.js, Node.js, and MongoDB"# Bookstore" 
+Built with using React.js, Node.js, and MongoDB"# Bookstore" 
